@@ -15,6 +15,8 @@ Suggests:
     knitr,
     rmarkdown,
     testthat
+SystemRequirements:
+    Name if any.
 Description: This pacakge contains function that ease the use of
     R. It (1) wraps R standards functionality into single
     functions to enhance productivity, (2) adds new functionality
